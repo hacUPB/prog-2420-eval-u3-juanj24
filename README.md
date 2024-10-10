@@ -13,12 +13,13 @@ ID:
  
 ### Alcance:
  
-- El programa debera mostrar los lugares disponibles y seleccionar el deseado por el usuario, y dependiendo del horario y el dia nos debe mreturnar la sala y el presio del boleto
+- El programa debera mostrar los lugares disponibles y seleccionar el deseado por el usuario, y dependiendo del horario y el dia nos debe mreturnar la sala y el precio del boleto
  
 -
  
 ### Estructura de datos utilizadas
-
+- Vamos a iniciar con las variables de entrada las cuales se las pedimos al usuario
+despues vamos crear condicionales y bucles para cada una de estas variables haciendo uso de las matrices para posteriormente crer un esquema un mapa de los asientos que el usuario puede escoger finalmente el programa me debe retornar la varible del costo
 
 
 
