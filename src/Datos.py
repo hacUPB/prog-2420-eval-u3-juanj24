@@ -1,7 +1,17 @@
 
 def main():
-    #Tu código va aquí. Mantén la indentación
-    pass # borra esta línea cuando con inicies tu código
+    🦼🦼🦼🦼🦼🦼🦼🦼🦼
+    🔴🔴🔴🔴🔴🔴🔴
+    
+    print("bienvemido a cineprocolobia")
+
+    num_personas=int(input("ingrese e numero de pernas:"))
+    pelicula=input("ingrese el nombre la pelicual:")
+    asiento=int("ingrese la ubicacion del asiento:")
+
+def diccionario():
+
+    peliculas={}
 
 
 if __name__ == "__main__":
