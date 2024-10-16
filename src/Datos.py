@@ -5,7 +5,7 @@ def obtener_peliculas():
 
 
 def elegir_pelicula(peliculas):
-    print("Películas disponibles:")
+    print("peliculas disponibles:")
     numero_pelicula = 1
     for pelicula in peliculas:
         print(f"{numero_pelicula} {pelicula}")
@@ -20,7 +20,7 @@ def asientos(filas, columnas):
     for i in range(filas):
         fila = []
         for i in range(columnas):
-            fila.append("🟩")  # Asiento libre
+            fila.append("🟩")  
         asientos_totales.append(fila)
     
     return asientos_totales 
@@ -88,7 +88,7 @@ def main():
     costo_total = calcular_costo(personas)
 
   
-    print(f"se  reservvaron {personas} asientos para ver {pelicula_elegida}")
+    print(f"se  reservaron {personas} asientos para ver {pelicula_elegida}")
     print(f"debes pagar: {costo_total} ")
 
 
